@@ -69,6 +69,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** PRAKASH and (212225230211)
+**Name:** YUGABHARATHI M (212224230314)
 **Course:** Introduction to Cloud Computing  
 
